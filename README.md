@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
 <h3>Name: Samyuktha S</h3>
-<h3>Register Number/Staff Id: 212225040363</h3>
+<h3>Register Number: 212225040363</h3>
 
 
 <h3>AIM:</h3>
